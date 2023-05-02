@@ -5,9 +5,9 @@ sidebar_position: 1
 # Code de conférence 
 
 
-ette fonctionnalité améliore l’expérience utilisateur en lui permettant de rejoindre une conférence en saississant son code de préférence à son nom.
+Cette fonctionnalité améliore l’expérience utilisateur en lui permettant de rejoindre une conférence en saississant son code de préférence à son nom.
 
-Sa mise en place dépend d'un conf. Mapper pour gérer la correspondance entre le numéro et le nom, qi est le seul identifiant de la conférence dans le système.
+Sa mise en place dépend d'un conf. Mapper pour gérer la correspondance entre le numéro et le nom, qu  i est le seul identifiant de la conférence dans le système.
 
 Elle est à retravailler pour être intégrée comme un plugin et non comme une fonctionnalité de base.
 
