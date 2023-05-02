@@ -150,7 +150,7 @@ jitsibox-pro/apps/main-screen/
 
 **fonts**: est un dossier qui contient les fonts qui seront utilisés pour l'affichage des textes etc… (.woff2).
 
-**logo_eng.svg** & **logo_eng.svg**  : sont des logos génériques.
+**logo_eng.svg** & **logo_fr.svg**  : sont des logos génériques.
 ### Dossier: Components
 
 Le dossier `Components`  contient les composants réutilisables qui se trouvent dans l'ensemble de l'application. (reconnexion, en-têtes, etc...)
